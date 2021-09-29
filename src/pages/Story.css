@@ -1,0 +1,40 @@
+body {
+  margin: 0 5% 0 5%;
+  background-color: rgb(246, 246, 239);
+}
+table {
+  display: table;
+  border-collapse: separate;
+  box-sizing: border-box;
+  text-indent: initial;
+  white-space: normal;
+  line-height: normal;
+  font-weight: normal;
+  font-size: medium;
+  font-style: normal;
+  color: -internal-quirk-inherit;
+  text-align: start;
+  border-spacing: 2px;
+  border-color: grey;
+  font-variant: normal;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+td {
+  display: table-cell;
+  vertical-align: inherit;
+}
+.title {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10pt;
+  color: #828282;
+  overflow: hidden;
+}
+.sub-texts {
+  font-family: Verdana, Geneva, sans-serif;
+  margin: 0;
+  font-size: 7pt;
+}
